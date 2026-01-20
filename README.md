@@ -1,6 +1,4 @@
-# Rojo Carmín - Proyecto integrando JS
-
-# Rojo Carmín - Simulador de Cotizaciones JS 🎨
+# Rojo Carmín - Proyecto integrando JS - Simulador de Cotizaciones
 
 Este proyecto es parte del curso de **JavaScript** en Coderhouse. Consiste en un simulador interactivo integrado en el sitio de "Rojo Carmín", una plataforma dedicada al diseño editorial, arquitectura y arte. El trabajo de HTML y CSS, corresponde al final de desarrollo web - 
 
